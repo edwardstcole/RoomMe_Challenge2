@@ -1,0 +1,302 @@
+[
+    {
+        "name": "Alice",
+        "gender": "Female",
+        "age": 19,
+        "preferences": {
+            "sleep": 3,
+            "cleanliness": 8,
+            "study": 9,
+            "social": 4
+        },
+        "room_type": "Single",
+        "location": "Dorm A",
+        "ideal_num_of_roommates": 1,
+        "hometown": "New York"
+    },
+    {
+        "name": "Bob",
+        "gender": "Male",
+        "age": 20,
+        "preferences": {
+            "sleep": 7,
+            "cleanliness": 5,
+            "study": 4,
+            "social": 8
+        },
+        "room_type": "Double",
+        "location": "Dorm B",
+        "ideal_num_of_roommates": 2,
+        "hometown": "Chicago"
+    },
+    {
+        "name": "Person3",
+        "gender": "Female",
+        "age": 21,
+        "preferences": {
+            "sleep": 4,
+            "cleanliness": 7,
+            "study": 10,
+            "social": 3
+        },
+        "room_type": "Single",
+        "location": "Dorm A",
+        "ideal_num_of_roommates": 3,
+        "hometown": "City3"
+    },
+    {
+        "name": "Person4",
+        "gender": "Male",
+        "age": 22,
+        "preferences": {
+            "sleep": 5,
+            "cleanliness": 9,
+            "study": 3,
+            "social": 7
+        },
+        "room_type": "Double",
+        "location": "Dorm B",
+        "ideal_num_of_roommates": 0,
+        "hometown": "City4"
+    },
+    {
+        "name": "Person5",
+        "gender": "Female",
+        "age": 18,
+        "preferences": {
+            "sleep": 6,
+            "cleanliness": 1,
+            "study": 6,
+            "social": 1
+        },
+        "room_type": "Double",
+        "location": "Dorm C",
+        "ideal_num_of_roommates": 1,
+        "hometown": "City5"
+    },
+    {
+        "name": "Person6",
+        "gender": "Male",
+        "age": 19,
+        "preferences": {
+            "sleep": 7,
+            "cleanliness": 3,
+            "study": 9,
+            "social": 5
+        },
+        "room_type": "Single",
+        "location": "Dorm A",
+        "ideal_num_of_roommates": 2,
+        "hometown": "City6"
+    },
+    {
+        "name": "Person7",
+        "gender": "Female",
+        "age": 20,
+        "preferences": {
+            "sleep": 8,
+            "cleanliness": 5,
+            "study": 2,
+            "social": 9
+        },
+        "room_type": "Double",
+        "location": "Dorm B",
+        "ideal_num_of_roommates": 3,
+        "hometown": "City7"
+    },
+    {
+        "name": "Person8",
+        "gender": "Male",
+        "age": 21,
+        "preferences": {
+            "sleep": 9,
+            "cleanliness": 7,
+            "study": 5,
+            "social": 3
+        },
+        "room_type": "Double",
+        "location": "Dorm C",
+        "ideal_num_of_roommates": 0,
+        "hometown": "City8"
+    },
+    {
+        "name": "Person9",
+        "gender": "Female",
+        "age": 22,
+        "preferences": {
+            "sleep": 10,
+            "cleanliness": 9,
+            "study": 8,
+            "social": 7
+        },
+        "room_type": "Single",
+        "location": "Dorm A",
+        "ideal_num_of_roommates": 1,
+        "hometown": "City9"
+    },
+    {
+        "name": "Person10",
+        "gender": "Male",
+        "age": 18,
+        "preferences": {
+            "sleep": 1,
+            "cleanliness": 1,
+            "study": 1,
+            "social": 1
+        },
+        "room_type": "Double",
+        "location": "Dorm B",
+        "ideal_num_of_roommates": 2,
+        "hometown": "City10"
+    },
+    {
+        "name": "Person11",
+        "gender": "Female",
+        "age": 19,
+        "preferences": {
+            "sleep": 2,
+            "cleanliness": 3,
+            "study": 4,
+            "social": 5
+        },
+        "room_type": "Double",
+        "location": "Dorm C",
+        "ideal_num_of_roommates": 3,
+        "hometown": "City11"
+    },
+    {
+        "name": "Person12",
+        "gender": "Male",
+        "age": 20,
+        "preferences": {
+            "sleep": 3,
+            "cleanliness": 5,
+            "study": 7,
+            "social": 9
+        },
+        "room_type": "Single",
+        "location": "Dorm A",
+        "ideal_num_of_roommates": 0,
+        "hometown": "City12"
+    },
+    {
+        "name": "Person13",
+        "gender": "Female",
+        "age": 21,
+        "preferences": {
+            "sleep": 4,
+            "cleanliness": 7,
+            "study": 10,
+            "social": 3
+        },
+        "room_type": "Double",
+        "location": "Dorm B",
+        "ideal_num_of_roommates": 1,
+        "hometown": "City13"
+    },
+    {
+        "name": "Person14",
+        "gender": "Male",
+        "age": 22,
+        "preferences": {
+            "sleep": 5,
+            "cleanliness": 9,
+            "study": 3,
+            "social": 7
+        },
+        "room_type": "Double",
+        "location": "Dorm C",
+        "ideal_num_of_roommates": 2,
+        "hometown": "City14"
+    },
+    {
+        "name": "Person15",
+        "gender": "Female",
+        "age": 18,
+        "preferences": {
+            "sleep": 6,
+            "cleanliness": 1,
+            "study": 6,
+            "social": 1
+        },
+        "room_type": "Single",
+        "location": "Dorm A",
+        "ideal_num_of_roommates": 3,
+        "hometown": "City15"
+    },
+    {
+        "name": "Person16",
+        "gender": "Male",
+        "age": 19,
+        "preferences": {
+            "sleep": 7,
+            "cleanliness": 3,
+            "study": 9,
+            "social": 5
+        },
+        "room_type": "Double",
+        "location": "Dorm B",
+        "ideal_num_of_roommates": 0,
+        "hometown": "City16"
+    },
+    {
+        "name": "Person17",
+        "gender": "Female",
+        "age": 20,
+        "preferences": {
+            "sleep": 8,
+            "cleanliness": 5,
+            "study": 2,
+            "social": 9
+        },
+        "room_type": "Double",
+        "location": "Dorm C",
+        "ideal_num_of_roommates": 1,
+        "hometown": "City17"
+    },
+    {
+        "name": "Person18",
+        "gender": "Male",
+        "age": 21,
+        "preferences": {
+            "sleep": 9,
+            "cleanliness": 7,
+            "study": 5,
+            "social": 3
+        },
+        "room_type": "Single",
+        "location": "Dorm A",
+        "ideal_num_of_roommates": 2,
+        "hometown": "City18"
+    },
+    {
+        "name": "Person19",
+        "gender": "Female",
+        "age": 22,
+        "preferences": {
+            "sleep": 10,
+            "cleanliness": 9,
+            "study": 8,
+            "social": 7
+        },
+        "room_type": "Double",
+        "location": "Dorm B",
+        "ideal_num_of_roommates": 3,
+        "hometown": "City19"
+    },
+    {
+        "name": "Person20",
+        "gender": "Male",
+        "age": 18,
+        "preferences": {
+            "sleep": 1,
+            "cleanliness": 1,
+            "study": 1,
+            "social": 1
+        },
+        "room_type": "Double",
+        "location": "Dorm C",
+        "ideal_num_of_roommates": 0,
+        "hometown": "City20"
+    }
+]
